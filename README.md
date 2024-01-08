@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Edtest](https://www.educist.net)
 
-- 👨‍💻 All of my projects are available at [https://github.com/mateenshahzad](https://codebymateen.github.io)
+- 👨‍💻 All of my projects are available at [https://codebymateen.github.io](https://codebymateen.github.io)
 
 - 📫 How to reach me **itsmateenshk@gmail.com**
 

@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/mateenshahzad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateenshahzad" height="30" width="40" /></a>
 </span>
 <span align="left">
-<a href="https://replit.com/@CodeWithMateen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateenshahzad" height="30" width="40" /></a>
+<a href="https://replit.com/@CodeWithMateen" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://cdn.sanity.io/images/bj34pdbp/migration/3c2f2d404a571d2c9fbca934360352698d63433a-1920x900.png?w=1200&q=100&fit=clip&auto=format)" alt="mateenshahzad" height="30" width="40" /></a>
 </span>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/mateenshahzad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateenshahzad" height="30" width="40" /></a>
 </span>
 <span align="left">
-<a href="https://replit.com/@CodeWithMateen" target="blank"><img align="center" src="https://raw.githubusercontent.com/CodeByMateen/CodeByMateen/main//images/replit.svg" alt="mateenshahzad" height="60" width="90" /></a>
+<a href="https://replit.com/@CodeWithMateen" target="blank"><img align="center" src="https://raw.githubusercontent.com/CodeByMateen/CodeByMateen/main/images/replit.svg" alt="mateenshahzad" height="60" width="90" /></a>
 </span>
 
 

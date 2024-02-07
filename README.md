@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mateen Shahzad</h1>
 <h3 align="center">Compiling my code... Please wait! 👀</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebymateen&label=Profile%20views&color=0e75b6&style=flat" alt="codebymateen" /> </p>
 

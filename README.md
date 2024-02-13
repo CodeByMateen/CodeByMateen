@@ -34,3 +34,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebymateen&" alt="codebymateen" /></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%2300BFFF&size=26&duration=2500&center=true&vCenter=true&lines=Glad+to+see+you+here!;Thanks+For+Visiting!;)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%2300BFFF&size=26&duration=2500&center=true&vCenter=true&lines=;%20Glad+to+see+you+here!;%20Thanks+For+Visiting!;)](https://git.io/typing-svg)
+

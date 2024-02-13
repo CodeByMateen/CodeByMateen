@@ -35,5 +35,5 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%2300BFFF&size=26&duration=2500&center=true&vCenter=true&lines=Glad+to+see+you+here!;Thanks+For+Visiting!;)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%2300BFFF&size=26&duration=2500&center=true&vCenter=true&lines=%20Software+Development+Engineer+@educist!;%20Full+Stack+Developer!;%20Node+/+Express+Backend+Engineer!;%20React+/+Next+JS+Frontend+Engineer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%2300BFFF&size=26&duration=4000&center=true&vCenter=true&lines=Software+Development+Engineer+@educist!;Full+Stack+Developer!;Node+/+Express+Backend+Engineer!;React+/+Next+JS+Frontend+Engineer!)](https://git.io/typing-svg)
 

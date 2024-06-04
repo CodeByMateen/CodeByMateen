@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://codebymateen.github.io](https://codebymateen.github.io)
 
-- 📫 How to reach me **itsmateenshk@gmail.com**
+- 📫 How to reach me **mateenshahzad777@gmail.com**
 
 - ⚡ Fun fact **I think I am funny 😁**
 

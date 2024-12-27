@@ -7,9 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Edtest](https://www.educist.net)
+- 🔭 I’m currently working on Nest.js, Prisma ORM and TypeScript.
 
 - 👨‍💻 All of my projects are available at [https://codebymateen.github.io](https://codebymateen.github.io)
+
+- 👯 I am looking to collaborate on Backend Development, AI/ML and Data Engineering Projects.
+
+- 🥅 2025 Goals: Contribute to open source, learn and explore new technologies and working on amazing software projects.
+
+- 📢 I Love to learn new technologies and keep myself updated with latest technology trends.
 
 - 📫 How to reach me **mateenshahzad777@gmail.com**
 

@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on Nest.js, Prisma ORM and TypeScript.
+- 🔭 I’m currently working on Nest.js, TypeScript, Python and Prisma ORM.
 
 - 👨‍💻 All of my projects are available at [https://codebymateen.github.io](https://codebymateen.github.io)
 

@@ -22,6 +22,8 @@
 - ⚡ Fun fact **I think I am funny 😁**
 
 
+### Consistency is the silent force behind greatness, discipline the armor that defends your purpose, and continuous practice the blade that sharpens your edge — but without slaying procrastination, even the strongest warrior falls before the battle begins.
+
 ## Connect with me
 
 <span align="left">

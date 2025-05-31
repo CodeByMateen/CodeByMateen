@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateen Shahzad</h1>
 <h3 align="center">Compiling my code... Please wait! 👀</h3>
-<h3 align="center">Whenever I see a door with **PUSH** sign, I **PULL** it first to avoid any **conflicts**.  
-Don’t worry if you didn’t **GIT** it.</h3>
+Whenever I see a door with **PUSH** sign, I **PULL** it first to avoid any **conflicts**.  
+Don’t worry if you didn’t **GIT** it.
 <!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> -->
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/CodeByMateen/CodeByMateen/main/images/hacking.gif">
 

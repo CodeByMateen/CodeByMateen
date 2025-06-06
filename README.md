@@ -10,7 +10,7 @@ Don’t worry if you didn’t GIT it.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on Fatify.js, Nest.js, TypeScript, Python and Prisma ORM.
+- 🔭 I’m currently working on Fatify.js, Nest.js, TypeScript, Python, Prisma ORM and AI Projects.
 
 - 👨‍💻 All of my projects are available at [https://codebymateen.github.io](https://codebymateen.github.io)
 

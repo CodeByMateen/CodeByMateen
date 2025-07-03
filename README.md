@@ -238,19 +238,6 @@ Don’t worry if you didn’t GIT it.
 </p>
 
 
-
-## GitHub Trophies 🏆
-![](https://github-profile-trophy.vercel.app/?username=codebymateen&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
-
-
-## Contribution Graph
-![Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)
-
-
-## Random Dev Quote ✍
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
 ## Github Analytics
 
 <p align="center">
@@ -259,4 +246,17 @@ Don’t worry if you didn’t GIT it.
 	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=codebymateen&show_icons=true&locale=en&layout=demo&theme=algolia"/>
 </p>
 
+
+## GitHub Trophies 🏆
+![](https://github-profile-trophy.vercel.app/?username=codebymateen&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+
+
+## Random Dev Quote ✍
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%2300BFFF&size=28&duration=3500&center=true&vCenter=true&lines=Glad+to+see+you+here!;Thanks+for+visiting!)](https://git.io/typing-svg)
+
+
+## Contribution Graph
+![Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)

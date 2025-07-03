@@ -97,18 +97,24 @@ Don’t worry if you didn’t GIT it.
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
           <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
         </a>
-        <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-          <img src="https://simpleicons.org/icons/flask.svg" alt="Flask" width="40" height="40"/>
-        </a>
+	<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+  	  <img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="FastAPI" width="40" height="40"/>
+	</a>
+	<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  	  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+	</a>
+	<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  	  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+	</a>
         <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
           <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
         </a>
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
         </a>
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-        </a>
+	<a href="https://www.fastify.io/" target="_blank" rel="noreferrer">
+ 	  <img src="https://www.vectorlogo.zone/logos/fastifyio/fastifyio-icon.svg" alt="Fastify" width="40" height="40"/>
+	</a>
         <a href="https://spring.io/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
         </a>

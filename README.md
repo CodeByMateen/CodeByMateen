@@ -200,6 +200,9 @@ Don’t worry if you didn’t GIT it.
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
         </a>
+	<a href="https://marvelapp.com/" target="_blank" rel="noreferrer">
+ 	  <img src="https://raw.githubusercontent.com/CodeByMateen/CodeByMateen/main/images/marvel_logo.png" alt="Marvel" width="40" height="40"/>
+	</a>
       </div>
     </td>
   </tr>

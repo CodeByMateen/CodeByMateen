@@ -146,9 +146,9 @@ Don’t worry if you didn’t GIT it.
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
         </a>
-        <a href="https://redis.io" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-        </a>
+	<a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
+	  <img src="https://raw.githubusercontent.com/CodeByMateen/CodeByMateen/main/images/pinecone.png" alt="Pinecone" width="40" height="40"/>
+	</a>
       </div>
     </td>
   </tr>
@@ -216,6 +216,15 @@ Don’t worry if you didn’t GIT it.
         <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
           <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
         </a>
+	<a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+ 	  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
+	</a>
+	<a href="https://langchain.com/" target="_blank" rel="noreferrer">
+  	  <img src="https://raw.githubusercontent.com/CodeByMateen/CodeByMateen/main/images/langchain.png" alt="LangChain" width="40" height="40"/>
+	</a>
+	<a href="https://github.com/langchain-ai/langgraph" target="_blank" rel="noreferrer">
+	  <img src="https://raw.githubusercontent.com/CodeByMateen/CodeByMateen/main/images/langgraph.png" alt="LangGraph" width="40" height="40"/>
+	</a>
         <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
           <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
         </a>

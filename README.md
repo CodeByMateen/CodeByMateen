@@ -276,7 +276,3 @@ Don’t worry if you didn’t GIT it.
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%2300BFFF&size=28&duration=3500&center=true&vCenter=true&lines=Glad+to+see+you+here!;Thanks+for+visiting!)](https://git.io/typing-svg)
-
-
-## Contribution Graph
-![Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)

@@ -12,7 +12,7 @@ Don’t worry if you didn’t GIT it.
 
 - 🔭 I’m currently working on Fatify.js, Nest.js, TypeScript, Python, Prisma ORM and AI Projects.
 
-- 👨‍💻 All of my projects are available at [https://codebymateen.github.io](https://codebymateen.github.io){:target="_blank"}
+- 👨‍💻 All of my projects are available at <a href="https://codebymateen.github.io" target="_blank">https://codebymateen.github.io</a>
 
 - 👯 I am looking to collaborate on Backend Development, AI/ML and Data Engineering Projects.
 

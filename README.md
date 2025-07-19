@@ -24,7 +24,6 @@ Don’t worry if you didn’t GIT it.
 
 - ⚡ Fun fact **I think I am funny 😁**
 
-
 ### Consistency is the silent force behind greatness, discipline the armor that defends your purpose, and continuous practice the blade that sharpens your edge — but without slaying procrastination, even the strongest warrior falls before the battle begins.
 
 ## Connect with me
@@ -36,8 +35,7 @@ Don’t worry if you didn’t GIT it.
 <a href="https://replit.com/@CodeWithMateen" target="blank"><img align="center" src="https://raw.githubusercontent.com/CodeByMateen/CodeByMateen/main/images/replit.svg" alt="mateenshahzad" height="60" width="90" /></a>
 </span>
 
-
-## Languages, Tools & Frameworks 
+## Languages, Tools & Frameworks
 
 <table>
   <tr>
@@ -91,7 +89,44 @@ Don’t worry if you didn’t GIT it.
     </td>
   </tr>
   <tr>
-    <th align="left">Frameworks & Runtimes</th>
+    <th align="left">Frontend Technologies</th>
+    <td align="center">
+      <div>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+        </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+        </a>
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+        </a>
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js">
+          <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+        </a>
+        <a href="https://vuejs.org/" target="_blank" rel="noreferrer" title="Vue.js">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
+        </a>
+        <a href="https://nuxt.com/" target="_blank" rel="noreferrer" title="Nuxt.js">
+          <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" width="40" height="40"/>
+        </a>
+        <a href="https://angular.io" target="_blank" rel="noreferrer" title="Angular">
+          <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
+        </a>
+        <a href="https://mui.com/" target="_blank" rel="noreferrer" title="Material-UI">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material-UI" width="40" height="40"/>
+        </a>
+        <a href="https://ant.design/" target="_blank" rel="noreferrer" title="Ant Design">
+          <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" width="40" height="40"/>
+        </a>
+        <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer" title="shadcn/ui">
+          <img src="https://avatars.githubusercontent.com/u/124599?s=200&v=4" alt="shadcn/ui" width="40" height="40"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Backend Technologies</th>
     <td align="center">
       <div>
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" title="Django">
@@ -266,13 +301,12 @@ Don’t worry if you didn’t GIT it.
 	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=codebymateen&show_icons=true&locale=en&layout=demo&theme=algolia"/>
 </p>
 
-
 ## GitHub Trophies 🏆
+
 ![](https://github-profile-trophy.vercel.app/?username=codebymateen&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
-
 ## Random Dev Quote ✍
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%2300BFFF&size=28&duration=3500&center=true&vCenter=true&lines=Glad+to+see+you+here!;Thanks+for+visiting!)](https://git.io/typing-svg)

@@ -301,6 +301,12 @@ Don’t worry if you didn’t GIT it.
 	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=codebymateen&show_icons=true&locale=en&layout=demo&theme=algolia"/>
 </p>
 
+<p align="center">
+	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sualehasif&layout=compact&langs_count=8&theme=algolia"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sualehasif&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=sualehasif&show_icons=true&locale=en&layout=demo&theme=algolia"/>
+</p>
+
 ## GitHub Trophies 🏆
 
 ![](https://github-profile-trophy.vercel.app/?username=codebymateen&theme=algolia&no-frame=false&no-bg=true&margin-w=4)

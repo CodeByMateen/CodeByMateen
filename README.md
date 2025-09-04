@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mateen Shahzad</h1>
+<h1 align="center">Hi There! <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="40px"> I'm Mateen Shahzad</h1>
 <h3 align="center">Compiling my code... Please wait! 👀</h3>
 <h4 align="center">Whenever I see a door with PUSH sign, I PULL it first to avoid any conflicts.  
 Don’t worry if you didn’t GIT it.

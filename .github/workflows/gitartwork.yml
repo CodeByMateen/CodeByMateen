@@ -1,24 +1,24 @@
-name: gitartwork from a contribution graph
+# name: gitartwork from a contribution graph
 
-on:
-  push:
-  schedule:
-    - cron: "0 * * * *" # Every 1 hour (at minute 0)
+# on:
+#   push:
+#   schedule:
+#     - cron: "0 * * * *" # Every 1 hour (at minute 0)
 
-jobs:
-  build:
-    name: Make gitartwork SVG
-    runs-on: ubuntu-latest
+# jobs:
+#   build:
+#     name: Make gitartwork SVG
+#     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+#     steps:
+#       - name: Checkout Repository
+#         uses: actions/checkout@v3
 
-      - name: Generate GitArtWork SVG
-        uses: jasineri/gitartwork@v1
-        with:
-          user_name: codebymateen
-          text: MATEEN
+#       - name: Generate GitArtWork SVG
+#         uses: jasineri/gitartwork@v1
+#         with:
+#           user_name: codebymateen
+#           text: MATEEN
 
-      - name: Push SVG to Repository
-        uses: jasineri/simple-push-action@v1
+#       - name: Push SVG to Repository
+#         uses: jasineri/simple-push-action@v1

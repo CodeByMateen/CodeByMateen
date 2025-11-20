@@ -310,3 +310,10 @@ Don’t worry if you didn’t GIT it.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%2300BFFF&size=28&duration=3500&center=true&vCenter=true&lines=Glad+to+see+you+here!;Thanks+for+visiting!)](https://git.io/typing-svg)
+
+<span>
+Hunting for Code: goto grep.app link: "https://grep.app/"
+</span>
+<span>
+Automated workflows: goto crewai.com link: "https://www.crewai.com/"
+</span>

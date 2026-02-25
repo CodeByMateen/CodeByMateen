@@ -16,7 +16,7 @@ Don’t worry if you didn’t GIT it.
 
 - 👯 I am looking to collaborate on Backend Development, AI/ML and Data Engineering Projects.
 
-- 🥅 2025 Goals: Contribute to open source, learn and explore new technologies and working on amazing software projects.
+- 🥅 2026 Goals: Contribute to open source, learn and explore new technologies and working on amazing software projects.
 
 - 📢 I Love to learn new technologies and keep myself updated with latest technology trends.
 

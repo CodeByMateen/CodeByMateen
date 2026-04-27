@@ -10,17 +10,17 @@ Don’t worry if you didn’t GIT it.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on Fatify.js, Nest.js, TypeScript, Python, Prisma ORM and AI Projects.
+- 🔭 I’m currently working on Fastify.js, React.js, Next.js, Nest.js, TypeScript, Python, Prisma ORM and AI Projects.
 
 - 👨‍💻 All of my projects are available at <a href="https://codebymateen.github.io" target="_blank">https://codebymateen.github.io</a>
 
-- 👯 I am looking to collaborate on Backend Development, AI/ML and Data Engineering Projects.
+- 👯 I am looking to collaborate on Full Stack Development, AI/ML and Data Science Projects.
 
 - 🥅 2026 Goals: Contribute to open source, learn and explore new technologies and working on amazing software projects.
 
 - 📢 I Love to learn new technologies and keep myself updated with latest technology trends.
 
-- 📫 How to reach me **mateenshahzad777@gmail.com**
+- 📫 How to reach me **mateen.workdev@gmail.com**
 
 - ⚡ Fun fact **I think I am funny 😁**
 
